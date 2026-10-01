@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://99mais1.vercel.app/sitemap.xml
