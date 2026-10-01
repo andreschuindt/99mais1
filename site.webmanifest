@@ -1,0 +1,9 @@
+{
+  "name": "99+1 — Cuidado da Alma de Missionários",
+  "short_name": "99+1",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F6EF",
+  "theme_color": "#0F4F52"
+}
