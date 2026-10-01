@@ -1,0 +1,9 @@
+{
+  "name": "99mais1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projeto 99+1 — cuidado da alma de missionários.",
+  "scripts": {
+    "check": "node scripts/validate.mjs"
+  }
+}
